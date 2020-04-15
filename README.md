@@ -6,7 +6,7 @@ Ideal for creating React apps from the scratch.
 ## Setup
 
 ```shell
-git clone git@github.com:wenpengfei/parcel-typescript-react-boilerplate.git <project>
+git clone git@github.com:atrincas/parcel-react-typescript-boilerplate.git <project>
 cd <project>
 yarn install
 yarn start # use for development
