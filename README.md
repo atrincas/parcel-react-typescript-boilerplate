@@ -17,12 +17,12 @@ yarn build # compiling for production
 
 ### Core
 
-- [react@v16](https://reactjs.org/)
-- [typescript](https://www.typescriptlang.org/)
+- [x] [React](https://facebook.github.io/react/) 16.13
+- [x] [Typescript](https://www.typescriptlang.org/) 3.8
 
 ### Utils
 
-- [parcel](https://parceljs.org)
+- [x] [parcel-bundler](https://parceljs.org) 1.12
 
 ## Structure
 
